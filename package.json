@@ -15,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "ember-cli": "^0.2.4",
+    "broccoli-file-creator": "^0.1.0",
     "broccoli-merge-trees": "^0.2.1",
     "broccoli-funnel": "^0.2.3",
     "broccoli-replace": "^0.3.1"
